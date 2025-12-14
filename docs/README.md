@@ -1,27 +1,18 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Olá, eu sou Matheus Lopes! 👋
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## 🚀 Sobre Mim
+- 🖥️ Bacharelando em Ciência e Tecnologia e Ciência de Dados
+- 💼 Ganhando experiência prática como Estagiário em Gestão de Indicadores Corporativos
+- 🎲 Interessado no universo dos dados
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+## 🛠️ Ferramentas e Tecnologias
+![Static Badge](https://img.shields.io/badge/Apps_Script-black?style=for-the-badge&logo=googleappsscript)
+![Static Badge](https://img.shields.io/badge/Looker_Studio-black?style=for-the-badge&logo=Looker)
+![Static Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## 🌐 Rede
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedln&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatheus-lopes-3a915a327%2F)
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+Obrigado por visitar o meu perfil! 😊
